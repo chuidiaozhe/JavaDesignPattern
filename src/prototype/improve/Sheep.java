@@ -1,4 +1,4 @@
-package factory.prototype.improve;
+package prototype.improve;
 
 public class Sheep  implements Cloneable{
     private String name;

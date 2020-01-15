@@ -1,4 +1,4 @@
-package factory.prototype.deepclone;
+package prototype.deepclone;
 
 import java.io.*;
 

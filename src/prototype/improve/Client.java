@@ -1,4 +1,4 @@
-package factory.prototype.improve;
+package prototype.improve;
 
 public class Client {
     public static void main(String[] args){

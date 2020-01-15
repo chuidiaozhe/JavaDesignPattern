@@ -1,4 +1,4 @@
-package factory.prototype.deepclone;
+package prototype.deepclone;
 
 public class Clinet {
     public static void main(String[] args) throws CloneNotSupportedException {
