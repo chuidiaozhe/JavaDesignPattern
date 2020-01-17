@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6710287a-a626-4b44-9ca6-b47410593104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/decorator/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/CoffeeBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/DeCaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Espresson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/LongBlack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/ShortBlack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/OrganizationComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composite/说明" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,15 +35,66 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/decorator/Decorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <state relative-caret-position="72">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#207#208#0" expanded="true" />
                 <element signature="e#261#262#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/composite/说明">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/composite/OrganizationComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding>
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/composite/University.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/composite/College.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -73,10 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/factory/prototype/deepclone/DeepCloneableTarget.java" />
-        <option value="$PROJECT_DIR$/src/factory/prototype/deepclone/DeepProtoType.java" />
-        <option value="$PROJECT_DIR$/src/factory/prototype/readme" />
-        <option value="$PROJECT_DIR$/src/factory/prototype/deepclone/Clinet.java" />
         <option value="$PROJECT_DIR$/src/factory/builder/说明" />
         <option value="$PROJECT_DIR$/src/builder/tradition/AbstractHouse.java" />
         <option value="$PROJECT_DIR$/src/builder/tradition/CommonHouse.java" />
@@ -124,6 +163,10 @@
         <option value="$PROJECT_DIR$/src/decorator/Chocolate.java" />
         <option value="$PROJECT_DIR$/src/decorator/CoffeeBar.java" />
         <option value="$PROJECT_DIR$/src/decorator/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/composite/说明" />
+        <option value="$PROJECT_DIR$/src/composite/OrganizationComponent.java" />
+        <option value="$PROJECT_DIR$/src/composite/University.java" />
+        <option value="$PROJECT_DIR$/src/composite/College.java" />
       </list>
     </option>
   </component>
@@ -157,7 +200,7 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,7 +210,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579248956084" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579254623085" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -180,11 +223,11 @@
       <recent name="$PROJECT_DIR$/src/factory/simplefactory/pizza" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="composite" />
       <recent name="bridge" />
       <recent name="builder.tradition" />
       <recent name="factory.absfactory.order" />
       <recent name="factory.methodfactory.pizza" />
-      <recent name="factory.tradition.pizza" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/singleton" />
@@ -202,20 +245,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CoffeeBar">
+  <component name="RunManager" selected="Application.Client (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adapter.classadapter.Client" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composite.Client" />
       <module name="DesignPattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="adapter.classadapter.*" />
+          <option name="PATTERN" value="composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.CoffeeBar" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.DispatchServlet" />
         <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Client (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -342,10 +385,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="2560" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25615567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25615567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -355,13 +398,13 @@
       <window_info id="simpleUML" order="7" weight="0.32962668" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2980198" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2980198" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49960285" weight="0.32970297" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49960285" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960285" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32970297" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -434,36 +477,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/builder/tradition/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/principle/readme">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/improve/HouseDirector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/builder/说明">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -862,12 +875,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/decorator/Decorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#207#208#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/OrganizationComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/University.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composite/College.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
