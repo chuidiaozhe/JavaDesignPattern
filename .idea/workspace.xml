@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6710287a-a626-4b44-9ca6-b47410593104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bridge/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/FoldedPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/UpRightPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/Vivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/Xiaomi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridge/说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/CoffeeBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/DeCaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Espresson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/LongBlack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/ShortBlack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decorator/说明" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,19 +26,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bridge/Client.java">
+        <entry file="file://$PROJECT_DIR$/src/decorator/CoffeeBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="306">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/decorator/Chocolate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bridge/说明">
+        <entry file="file://$PROJECT_DIR$/src/decorator/Decorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state relative-caret-position="216">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,18 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/factory/methodfactory/order/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/methodfactory/order/TestMethodFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/absfactory/说明" />
-        <option value="$PROJECT_DIR$/src/factory/absfactory/pizza/LDCheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/absfactory/order/AbsFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/absfactory/order/BJFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/absfactory/order/LDFactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/absfactory/order/OrderPizza.java" />
-        <option value="$PROJECT_DIR$/src/factory/absfactory/order/TestAbsfactory.java" />
-        <option value="$PROJECT_DIR$/src/factory/readme" />
-        <option value="$PROJECT_DIR$/src/factory/prototype/improve/Client.java" />
-        <option value="$PROJECT_DIR$/src/factory/prototype/improve/Sheep.java" />
         <option value="$PROJECT_DIR$/src/factory/prototype/deepclone/DeepCloneableTarget.java" />
         <option value="$PROJECT_DIR$/src/factory/prototype/deepclone/DeepProtoType.java" />
         <option value="$PROJECT_DIR$/src/factory/prototype/readme" />
@@ -107,6 +112,18 @@
         <option value="$PROJECT_DIR$/src/bridge/UpRightPhone.java" />
         <option value="$PROJECT_DIR$/src/bridge/Client.java" />
         <option value="$PROJECT_DIR$/src/bridge/说明" />
+        <option value="$PROJECT_DIR$/src/decorator/说明" />
+        <option value="$PROJECT_DIR$/src/decorator/Drink.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Espresson.java" />
+        <option value="$PROJECT_DIR$/src/decorator/LongBlack.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Milk.java" />
+        <option value="$PROJECT_DIR$/src/decorator/ShortBlack.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Soy.java" />
+        <option value="$PROJECT_DIR$/src/decorator/DeCaf.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Chocolate.java" />
+        <option value="$PROJECT_DIR$/src/decorator/CoffeeBar.java" />
+        <option value="$PROJECT_DIR$/src/decorator/Decorator.java" />
       </list>
     </option>
   </component>
@@ -140,7 +157,7 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +167,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579161825765" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579248956084" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -185,23 +202,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.CoffeeBar">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="builder.tradition.Client" />
-      <module name="DesignPattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="builder.tradition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -241,6 +244,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoffeeBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.CoffeeBar" />
+      <module name="DesignPattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoffeeBar" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.DispatchServlet" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -325,10 +342,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25615567" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25615567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -338,7 +355,7 @@
       <window_info id="simpleUML" order="7" weight="0.32962668" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2980198" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2980198" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,10 +413,16 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/decorator/CoffeeBar.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/prototype/improve/Sheep.java</url>
           <line>47</line>
-          <properties class="factory.prototype.improve.Sheep" method="getFriend">
+          <properties class="prototype.improve.Sheep" method="getFriend">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
@@ -411,114 +434,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/factory/absfactory/order/TestAbsfactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/absfactory/pizza/LDPepperPizza.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/deepclone/DeepCloneableTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/deepclone/Clinet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/deepclone/DeepProtoType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/improve/Sheep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype/improve/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/factory/tradition/说明">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/tradition/AbstractHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/tradition/CommonHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/tradition/HighBuildHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/builder/tradition/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/builder/tradition/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -840,6 +755,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bridge/说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bridge/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -847,10 +769,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bridge/说明">
+    <entry file="file://$PROJECT_DIR$/src/decorator/说明">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        <state relative-caret-position="54">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Espresson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/ShortBlack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/DeCaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/LongBlack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Milk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/CoffeeBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Chocolate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
